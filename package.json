@@ -1,0 +1,22 @@
+{
+  "name": "testcoin",
+  "version": "1.0.0",
+  "description": "A simple CryptoCurrency written to highlight the basics of the blockchain",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nspringham/TestCoin.git"
+  },
+  "author": "NS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nspringham/TestCoin/issues"
+  },
+  "homepage": "https://github.com/Nspringham/TestCoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
